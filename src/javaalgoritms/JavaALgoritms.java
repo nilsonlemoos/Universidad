@@ -11,7 +11,7 @@ public class JavaALgoritms{
         System.out.println("Digite una caracter: ");
         letra=entrada.next().charAt(0);
                
-        //System.out.println("La cadena es: "+entrada);
+        System.out.println("La cadena es: "+entrada);
         
     }
 }
